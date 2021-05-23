@@ -5,7 +5,7 @@ It was created for [Final Year Project](http://lastminute.pythonanywhere.com/), 
 
 The project is web-based featuring open architecture that means the app keeps up with the dynamic needs of the rental store by addition of new systems & functionality.
 
-The software consists of four key modules i.e. user registration, login, reservation and return/cancellation.
+The software consists of four key modules i.e. user registration, login, reservation and return/cancellation, and search movies.
 
 ## Roadmap
 
